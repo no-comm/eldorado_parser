@@ -3,5 +3,5 @@ parser for eldorado
 ## usage
 ```python
 import eldorado
-print(eldorado.collect())
+print(eldorado.collect("request"))
 ```
